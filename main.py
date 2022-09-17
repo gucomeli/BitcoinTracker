@@ -1,5 +1,5 @@
 from tkinter import *
-from tkinter import ttk  
+from tkinter import ttk
 
 # importando bilbiotecas
 from PIL import ImageTk, Image,ImageOps , ImageDraw
